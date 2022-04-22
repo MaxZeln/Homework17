@@ -1,0 +1,11 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+shop,ru.learnup.shop.MyExeption,NonExistentProduct,26,0,0,0,9,0,3,0,3,0
+shop,ru.learnup.shop.Products,Cake,0,14,0,0,0,4,0,1,0,1
+shop,ru.learnup.shop.Products,Book,0,20,0,0,0,6,0,1,0,1
+shop,ru.learnup.shop.Products,BookBuilder,0,37,0,0,0,11,0,8,0,8
+shop,ru.learnup.shop.Products,Soap,0,20,0,0,0,6,0,1,0,1
+shop,ru.learnup.shop.Products,Product,0,68,0,0,0,27,0,12,0,12
+shop,ru.learnup.shop.Stores,Searching_By_Index,0,8,0,0,0,2,0,1,0,1
+shop,ru.learnup.shop.Stores,Books_Store_Bukvoed,9,245,3,19,3,47,3,14,0,6
+shop,ru.learnup.shop,Main,88,0,0,0,25,0,2,0,2,0
+shop,ru.learnup.shop.Add_Remove_Classes,Add_Rm_Product,12,3,0,0,6,1,4,1,4,1
